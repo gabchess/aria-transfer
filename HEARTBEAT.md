@@ -1,0 +1,5 @@
+- Read `memory/mission-board.md` — report status on active items, flag anything overdue
+- Read `sessions_list()` — report on any running sub-agents
+- Check EYES.md triggers — any urgent or important items to act on?
+- **WEEKLY (Sundays):** Check MEMORY.md file size. If over 15K chars, compress it — move detailed sections to separate memory files (NEVER delete, always preserve). Target: under 10K chars.
+- **WEEKLY (Sundays):** Review all workspace .md files total size. Flag if combined injected context exceeds 20K chars.
