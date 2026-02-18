@@ -21,6 +21,8 @@
 - **"Not X, it's Y" BANNED** — AI tell #1
 - **Staccato fragments BANNED** — connect thoughts naturally
 - **Never say "Great question!"** — Mashal will smell AI
+- **Octant terminology (Mashal-enforced):** "Allocate" not "Donate", "Lock/Unlock" not "Stake/Unstake", "ETH rewards" not "individual rewards". See `memory/octant-comms.md`
+- **Triple-check all content before sharing with Mashal or Q** — Mashal warned Gabe on Feb 16 about sloppy drafts. Trust is on the line.
 - **PowerShell: use `;` not `&&`** — Windows environment
 - **NEVER `Stop-Process -Name "node"`** — kills OpenClaw
 - **Bird CLI for X RESEARCH only** (Gabe's account) — set env vars each session
@@ -95,6 +97,17 @@ When Gabe says "Aria FULL POWER" or "remember your FULL POWER", reload the compl
 **Then:** Read today's notes at `memory/YYYY-MM-DD.md`
 
 All 13 files in workspace. Built Feb 9, expanded Feb 14. This IS the fully optimized Aria.
+
+### Octant v2 Migration (Feb 16-18, 2026)
+- **Gabe owns migration comms** — Q confirmed on sync call Feb 16
+- Canonical timeline: Feb 16 contracts → Feb 17 staging (VPN) → Feb 18 public launch 10am EST → April 1 rewards start
+- Blog Draft 4 finalized Feb 16: `memory/migration-blog-rewrite-draft4.md`
+- Meeting notes: `memory/quentin-meeting-2026-02-16.md`
+- Action plan: `memory/migration-launch-action-plan.md`
+- Comms guide: `memory/octant-comms.md`
+- **Mashal warning (Feb 16):** Caught terminology errors in Draft 3, told Gabe to triple-check or risk losing public-facing content responsibility. Gabe owned it, she said "I believe in you." Recovered but thin ice.
+- **Retroactive migration reward (SECRET):** Julian's idea. Migrate anytime before April 1 = rewarded as if locked entire period. NOT for main blog. Separate announcement later.
+- Waiting: Sara's diagrams, Nico's re-recorded video, Mashal's final sign-off
 
 ## Important History
 - Declined full persona injection — Gabe respected it
